@@ -10,7 +10,7 @@ Informações das Chácaras encontradas até o momento.
 
 ### Toca dos Pios
 
-Disponível no Airbnb: https://www.airbnb.com.br/rooms/1121813478929166966
+Disponível no Airbnb: [https://www.airbnb.com.br/rooms/1121813478929166966](https://www.airbnb.com.br/rooms/1121813478929166966)
 <br>
 Valor: R$ 580.67 p/ dia com todas as taxas
 <br>
@@ -84,7 +84,7 @@ Quantidade de Banheiros: 5
 
 ### Chácara Fênix
 
-Disponível no Airbnb: https://www.airbnb.com.br/rooms/916033104359648606
+Disponível no Airbnb: [https://www.airbnb.com.br/rooms/916033104359648606](https://www.airbnb.com.br/rooms/916033104359648606)
 <br>
 Valor: R$ 464.33 p/ dia com todas as taxas
 <br>
@@ -140,7 +140,7 @@ Quantidade de Banheiros: 2
 
 ### Casa 1
 
-Disponível no Facebook:https://www.facebook.com/marketplace/item/1961592084612569
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/1961592084612569](https://www.facebook.com/marketplace/item/1961592084612569)
 <br>
 Valor: a verificar
 <br>
@@ -188,7 +188,7 @@ Quantidade de Banheiros: 3
 
 ### Chácara do Tito
 
-Disponível no Facebook: https://www.facebook.com/marketplace/item/862863595879795/
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/862863595879795/](https://www.facebook.com/marketplace/item/862863595879795/)
 <br>
 Valor: R$ 500.00 p/ dia
 <br>
@@ -236,7 +236,7 @@ Quantidade de Banheiros: 3
 
 ### Casa 2
 
-Disponível no Facebook:https://www.facebook.com/marketplace/item/594561633378670
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/594561633378670](https://www.facebook.com/marketplace/item/594561633378670)
 <br>
 Valor: R$ 300.00 p/dia
 <br>
@@ -261,7 +261,7 @@ Quantidade de Banheiros: 3
 
 ### Sítio Boa Vista do Monte Alto
 
-Disponível no Airbnb:https://www.airbnb.com.br/rooms/1104529081806972151
+Disponível no Airbnb: [https://www.airbnb.com.br/rooms/1104529081806972151](https://www.airbnb.com.br/rooms/1104529081806972151)
 <br>
 Valor: R$ 580.67 p/ dia com todas as taxas
 <br>
@@ -334,7 +334,7 @@ Obs.: Local lindo no por e nascer do sol
 
 ### Chácara TOP 10
 
-Disponível no Airbnb: https://www.airbnb.com.br/rooms/17278348
+Disponível no Airbnb: [https://www.airbnb.com.br/rooms/17278348](https://www.airbnb.com.br/rooms/17278348)
 <br>
 Valor: R$ 503.00 p/ dia com todas as taxas
 <br>
