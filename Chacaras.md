@@ -332,4 +332,85 @@ Obs.: Local lindo no por e nascer do sol
 
 <hr>
 
+### Chácara TOP 10
+
+Disponível no Airbnb: https://www.airbnb.com.br/rooms/17278348
+<br>
+Valor: R$ 503.00 p/ dia com todas as taxas
+<br>
+Quantidade de Camas/Colchões: 21
+<br>
+Quantidade de Quartos: 4
+<br>
+Quantidade de Banheiros: 4
+<br>
+* **Cozinha Completa**
+  * Cozinha Espaçosa
+  * Fogão 6 bocas
+  * Frezzer horizontal
+  * Geladeira
+  * Microondas
+  * Itens Básicos de Cozinha
+      * Louças e Talheres
+      * Vasilhas
+  * Mesa com 7 Cadeiras
+  * Pia
+* **Área de Jantar**
+  * Mesa com 7 cadeiras 
+* **Sala de Estar**
+  * Cadeiras
+  * Mesa de sinuca
+  * Mesa de Pebolim
+  * Sofá em L de 7 lugares
+  * Lareira
+  * Tv pequena de tela plana
+  * Escrivaninha
+* **Suite 1**
+  * Uma Cama de solteiro
+  * Uma Cama de casal
+  * Dois colchão
+  * Uma beliche
+  * Local para passar roupa
+* **Quarto 2**
+  * Uma beliche
+  * Uma cama de casal
+  * Um colchão
+* **Quarto 3**
+  * Uma beliche
+  * Uma cama de casal
+  * Ventilador
+* **Quarto 4** 
+  * Uma cama de casal
+  * Uma beliche
+  * Um colchão
+* **3 banheiros completos internos**
+  * vaso sanitário
+  * pia com espelho
+  * chuveiro
+* **2 banheiros externos**
+  * vaso sanitário 
+  * pia
+  * (um deles tem mictório)
+* **Varandas**
+  * varandas espaçosas ao redor da casa 
+  * bancos
+  * mesa de sinuca
+* **Área de Churrasco**
+  * churrasqueira
+  * filtro
+  * bancos de bar
+  * forno á lenha
+* **Exterior**
+  * Grande espaço verde com gramado, plantas e árvores
+  * Quadra de Futebol gramado
+  * Área da Piscina
+    * Piscina (patricamente do mesmo tamanho do ano passado)
+      * Fonte
+      * Aquecedor
+    * Chuveiro externo
+    * Local coberto com redes
+
+<hr>
+
+Não terminei a Top 10
 ... falta ainda a top 10 e as chacaras da tia da Nicoly
