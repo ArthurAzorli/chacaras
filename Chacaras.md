@@ -342,7 +342,7 @@ Quantidade de Camas/Colchões: 21
 <br>
 Quantidade de Quartos: 4
 <br>
-Quantidade de Banheiros: 4
+Quantidade de Banheiros: 4 (quase certerza que tem mais)
 <br>
 * **Cozinha Completa**
   * Cozinha Espaçosa
@@ -353,6 +353,7 @@ Quantidade de Banheiros: 4
   * Itens Básicos de Cozinha
       * Louças e Talheres
       * Vasilhas
+      * Liquidificador
   * Mesa com 7 Cadeiras
   * Pia
 * **Área de Jantar**
@@ -361,10 +362,12 @@ Quantidade de Banheiros: 4
   * Cadeiras
   * Mesa de sinuca
   * Mesa de Pebolim
+  * Mesa de Ping Pong
   * Sofá em L de 7 lugares
   * Lareira
   * Tv pequena de tela plana
   * Escrivaninha
+  * Cadeiras de ferro dobráveis
 * **Suite 1**
   * Uma Cama de solteiro
   * Uma Cama de casal
@@ -383,34 +386,46 @@ Quantidade de Banheiros: 4
   * Uma cama de casal
   * Uma beliche
   * Um colchão
-* **3 banheiros completos internos**
+* **Banheiros completos internos 1 e 2**
   * vaso sanitário
   * pia com espelho
-  * chuveiro
-* **2 banheiros externos**
+  * chuveiro com separação
+  * secador de cabelo
+* **Banheiros completos externos 2 e 3**
   * vaso sanitário 
-  * pia
-  * (um deles tem mictório)
+  * pia com espelho
+  * chuveiro com box transparente
 * **Varandas**
-  * varandas espaçosas ao redor da casa 
-  * bancos
-  * mesa de sinuca
+  * Local espaçoso  
+  * Área de Churrasco 1
+    * Churrasqueira
+    * pia
+    * bancos de bar
+  * Mesa de Madeira
+  * Banco de balanço
+  * Rede  
 * **Área de Churrasco**
   * churrasqueira
   * filtro
   * bancos de bar
   * forno á lenha
 * **Exterior**
-  * Grande espaço verde com gramado, plantas e árvores
+  * Espaço verde enorme, mesmo, com gramado, plantas e árvores
   * Quadra de Futebol gramado
   * Área da Piscina
-    * Piscina (patricamente do mesmo tamanho do ano passado)
-      * Fonte
-      * Aquecedor
+    * Local grande e espaçoso 
+    * Piscina Grande
     * Chuveiro externo
     * Local coberto com redes
+    * (O que me parece mais um banheiro)
+    * Área de churrasco 2
+       * Churrasqueira
+       * Pia
+  * Parquinho infantil
+  * Banco de madeira Legal quadrados.
+
+Obs.: Local realmente enorme com 4000 metros 
 
 <hr>
 
-Não terminei a Top 10
-... falta ainda a top 10 e as chacaras da tia da Nicoly
+... falta ainda as chacaras da tia da Nicoly
