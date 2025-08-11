@@ -428,4 +428,107 @@ Obs.: Local realmente enorme com 4000 metros
 
 <hr>
 
-... falta ainda as chacaras da tia da Nicoly
+### Chácara Almeida (A maior)
+
+Disponível no Facebook: [https://www.facebook.com/share/19VU9yah6V/](https://www.facebook.com/share/19VU9yah6V/)
+<br>
+Valor: a verificar
+<br>
+Quantidade de Camas/Colchões: 17
+<br>
+Quantidade de Quartos: 3
+<br>
+Quantidade de Banheiros: 3
+<br>
+* **Cozinha Completa**
+  * Cu que entope (Cooktop)
+  * 2 Frezzers 
+  * Geladeira
+  * Pia
+  * Churrasqueira
+  * Fogão a lenha
+  * Bancos de bar
+* **Sala de Estar**
+  * Sofa com 3 lugares
+  * Tv de tubo
+* **Quarto 1**
+  * Uma cama de casal
+  * Duas cama de solteiro
+* **Banheiro completo externo masculino**
+  * Dois mictórios
+  * Duas pias
+  * Vaso sanitário
+  * Chuveiro com box transparente
+* **Banheiro completo externo feminino**
+  * uma pias
+  * Dois Vasos sanitários
+  * Chuveiro com box transparente
+* **Varandas**
+  * Maior parte do Local
+  * Mesa de sinuca
+  * Mesa de Ping Pong??
+  * Toldos
+* **Exterior**
+  * Grande espaço verde com gramado
+  * bancos
+  * Parquinho Infantil
+  * Área da Piscina
+    * Piscina (praticamente do memso tamanho da do ano passado)
+      * Aquecedor
+      * Fonte
+  * Jardim bonito
+
+Obs.: Local mais para eventos
+
+<hr>
+
+### Chácara Piovesan (A mais nova)
+
+Disponível no Facebook: [https://www.facebook.com/share/19VU9yah6V/](https://www.facebook.com/share/19VU9yah6V/)
+<br>
+Valor: a verificar
+<br>
+Quantidade de Camas/Colchões: 16
+<br>
+Quantidade de Quartos: 3
+<br>
+Quantidade de Banheiros: 3
+<br>
+* **Cozinha Completa**
+  * Fogãi industrial
+  * Frezzer horizontal
+  * Geladeira
+  * Pia
+  * Churrasqueira
+  * Ventilador
+* **Sala de Estar**
+  * Sofa com 3 lugares
+  * Tv de tubo
+* **Quarto 1**
+  * 3 beliches
+* **Quarto 2 e 3**
+  * Uma beliche
+  * Uma cama de casal
+  * uma cama de solteiro
+* **Banheiro Completo interno**
+  * vaso sanitário
+  * pia
+  * chuveiro com box transparente
+* **Banheiro Completo externo 1**
+  * vaso sanitário
+  * pia
+  * chuveiro com box transparente
+* **Banheiro externo 2**
+  * vaso sanitário
+  * pia
+* **Varandas**
+  * Maior parte do Local
+  * Mesa de sinuca
+* **Exterior**
+  * Espaço verde com gramado
+  * Área da Piscina
+    * Piscina Enorme
+    * Piscininha para lavar os pés
+  * Jardim bonito
+
+<hr>
