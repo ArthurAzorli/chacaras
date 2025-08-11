@@ -477,6 +477,7 @@ Quantidade de Banheiros: 3
       * Aquecedor
       * Fonte
   * Jardim bonito
+  * Luzes Lindas no Jardim
 
 Obs.: Local mais para eventos
 
