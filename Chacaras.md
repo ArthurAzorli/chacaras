@@ -82,7 +82,7 @@ Quantidade de Banheiros: 5
 
 <hr>
 
-### Chácara Fênix
+### ~~Chácara Fênix~~ (Indisponível)
 
 Disponível no Airbnb: [https://www.airbnb.com.br/rooms/916033104359648606](https://www.airbnb.com.br/rooms/916033104359648606)
 <br>
@@ -142,7 +142,7 @@ Quantidade de Banheiros: 2
 
 Disponível no Facebook: [https://www.facebook.com/marketplace/item/1961592084612569](https://www.facebook.com/marketplace/item/1961592084612569)
 <br>
-Valor: a verificar
+Valor: R$ 300.00 p/dia 
 <br>
 Quantidade de Quartos: 3
 <br>
@@ -238,7 +238,7 @@ Quantidade de Banheiros: 3
 
 Disponível no Facebook: [https://www.facebook.com/marketplace/item/594561633378670](https://www.facebook.com/marketplace/item/594561633378670)
 <br>
-Valor: R$ 300.00 p/dia
+Valor: R$ 300.00 p/dia (mas R$ 950.00 sexta a domingo)
 <br>
 Quantidade de Quartos: 2
 <br>
@@ -332,7 +332,7 @@ Obs.: Local lindo no por e nascer do sol
 
 <hr>
 
-### Chácara TOP 10
+### ~~Chácara TOP 10~~ (Indisponível)
 
 Disponível no Airbnb: [https://www.airbnb.com.br/rooms/17278348](https://www.airbnb.com.br/rooms/17278348)
 <br>
