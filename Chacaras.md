@@ -82,183 +82,6 @@ Quantidade de Banheiros: 5
 
 <hr>
 
-### ~~Chácara Fênix~~ (Indisponível)
-
-Disponível no Airbnb: [https://www.airbnb.com.br/rooms/916033104359648606](https://www.airbnb.com.br/rooms/916033104359648606)
-<br>
-Valor: R$ 464.33 p/ dia com todas as taxas
-<br>
-Quantidade de Camas/Colchões: 8
-<br>
-Quantidade de Quartos: 1
-<br>
-Quantidade de Banheiros: 2
-<br>
-* **Cozinha Completa**
-   * Pia
-   * Fogão 
-   * Churrasqueira
-   * Itens básicos de cozinha
-     * Talheres e Louças
-     * Liquidificador
-     * Utencilios de Churrasco
-     * Frezzer
-     * Geladeira
-     * Panelas
-     * temperos?
-* **Sala de Estar**
-    * Um sofá em L com 3 lugares
-    * 3 Camas
-* **Quarto**
-    * uma camas de casal
-    * uma cama de viuva
-    * 8 colchões
-* **banheiro completo interno**
-    * vaso sanitário
-    * pia com espelho
-    * chuveiro com box opaco
-* **2 banheiros exteriores**
-    * vaso sanitário
-    * pia com espelho
-    * chuveiro com separador
-* **Varandas**
-    * cederiras de plastico
-    * bancos
-    * cadeira de rede
-* **Exterior**
-    * Grande espaço ao arredor da piscina e áreas verdes
-    * Mesas com guarda-sol
-    * Um banco de madeira foda
-    * Área da Piscina
-        * Piscina (patricamente do mesmo tamanho do ano passado)
-        * Chuveiro externo
-        * Local coberto com redes
-    * Quadra de Vôlei gramada
-    * Estacionamento Grande
-
-<hr>
-
-### Casa 1
-
-Disponível no Facebook: [https://www.facebook.com/marketplace/item/1961592084612569](https://www.facebook.com/marketplace/item/1961592084612569)
-<br>
-Valor: R$ 300.00 p/dia 
-<br>
-Quantidade de Quartos: 3
-<br>
-Quantidade de Banheiros: 3
-<br>
-* **Cozinha Completa**
-    * Microondas
-    * Armários
-    * Geladeira
-* **Sala de Estar**
-    * Bem espaçoso
-    * Um sofá em L com 4 lugares
-    * Um sofá com dois lugares
-    * Dois sofás com 3 lugares
-    * uma poltrona
-    * uma tv de tubo 
-    * uma mesa com 3 cadeiras
-* **Quarto 1**
-    * duas camas de solteiro
-    * pelo menos 1 colchão
-**Quarto 2**
-    * cama de casal
-* **banheiro completo interno**
-    * vaso sanitário
-    * pia
-    * chuveiro com box transparente
-* **Varandas**
-    * área de churrasco
-    * bancos de bar
-    * frezzer
-    * mesa de jantar grande
-    * mesa e cadeiras de plastico
-* **Exterior**
-    * Grande espaço ao arredor da piscina e áreas verdes
-    * Mesa com garda-sol
-    * Área da Piscina
-        * Piscina grande
-        * Cadeira de tomar sol
-        * Local coberto com redes
-    * Quadra de Vôlei gramada
-
-<hr>
-
-### Chácara do Tito
-
-Disponível no Facebook: [https://www.facebook.com/marketplace/item/862863595879795/](https://www.facebook.com/marketplace/item/862863595879795/)
-<br>
-Valor: R$ 500.00 p/ dia
-<br>
-Quantidade de Quartos: 4
-<br>
-Quantidade de Banheiros: 3
-<br>
-* **Cozinha Completa Externa**
-    * Pia
-    * Fogão
-    * Churrasqueira
-    * Frezzer horizontal e vertical
-    * Mesa de Jantar Enorme
-* **Cozinha Completa Interna**
-  * Pia
-  * Fogão
-  * Churrasqueira
-  * Geladeira
-  * Microondas
-* **Quarto 1**
-    * uma beliche
-    * uma cama de viuva ou casal
-* **Quarto 2**
-    * uma beliche
-    * uma cama de casal
-* **Varandas**
-    * mesa de sinuca
-    * cadeiras de madeira
-    * mesa de ping pong
-* **Exterior**
-    * Grande espaço em áreas verdes
-    * Balanço
-    * Mesas com guarda-sol
-    * Um gol
-    * Mesas de pedra
-    * Área de Convivio com bancos
-    * Muitas arvores e plantas
-    * Área da Piscina
-        * Piscina de Adultos (patricamente do mesmo tamanho do ano passado)
-        * Piscina infantil do mesmo tamnho so que rasa
-        * Chuveiro externo
-        * Local coberto com redes
-
-<hr>
-
-### Casa 2
-
-Disponível no Facebook: [https://www.facebook.com/marketplace/item/594561633378670](https://www.facebook.com/marketplace/item/594561633378670)
-<br>
-Valor: R$ 300.00 p/dia (mas R$ 950.00 sexta a domingo)
-<br>
-Quantidade de Quartos: 2
-<br>
-Quantidade de Banheiros: 3
-<br>
-* **Cozinha**
-  * Churrasqueira
-* **Exterior**
-    * Grande espaço verde 
-    * Parquinho de Areia
-    * Casa na Árvore
-    * Quadra de Futebol e Vôlei gramado
-    * Área da Piscina
-        * Piscina grande multinevelada
-        * Cadeira de tomar sol
-        * Mesa com garda-sol
-* Local coberto para eventos
-
-<hr>
-
 ### Sítio Boa Vista do Monte Alto
 
 Disponível no Airbnb: [https://www.airbnb.com.br/rooms/1104529081806972151](https://www.airbnb.com.br/rooms/1104529081806972151)
@@ -329,6 +152,183 @@ Quantidade de Banheiros: 2
     * Animais de fazenda ao redor da propriedade
 
 Obs.: Local lindo no por e nascer do sol 
+
+<hr>
+
+### ~~Chácara Fênix~~ (Indisponível)
+
+Disponível no Airbnb: [https://www.airbnb.com.br/rooms/916033104359648606](https://www.airbnb.com.br/rooms/916033104359648606)
+<br>
+Valor: R$ 464.33 p/ dia com todas as taxas
+<br>
+Quantidade de Camas/Colchões: 8
+<br>
+Quantidade de Quartos: 1
+<br>
+Quantidade de Banheiros: 2
+<br>
+* **Cozinha Completa**
+   * Pia
+   * Fogão 
+   * Churrasqueira
+   * Itens básicos de cozinha
+     * Talheres e Louças
+     * Liquidificador
+     * Utencilios de Churrasco
+     * Frezzer
+     * Geladeira
+     * Panelas
+     * temperos?
+* **Sala de Estar**
+    * Um sofá em L com 3 lugares
+    * 3 Camas
+* **Quarto**
+    * uma camas de casal
+    * uma cama de viuva
+    * 8 colchões
+* **banheiro completo interno**
+    * vaso sanitário
+    * pia com espelho
+    * chuveiro com box opaco
+* **2 banheiros exteriores**
+    * vaso sanitário
+    * pia com espelho
+    * chuveiro com separador
+* **Varandas**
+    * cederiras de plastico
+    * bancos
+    * cadeira de rede
+* **Exterior**
+    * Grande espaço ao arredor da piscina e áreas verdes
+    * Mesas com guarda-sol
+    * Um banco de madeira foda
+    * Área da Piscina
+        * Piscina (patricamente do mesmo tamanho do ano passado)
+        * Chuveiro externo
+        * Local coberto com redes
+    * Quadra de Vôlei gramada
+    * Estacionamento Grande
+
+<hr>
+
+### ~~Casa 1~~ (Eliminado na votação)
+
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/1961592084612569](https://www.facebook.com/marketplace/item/1961592084612569)
+<br>
+Valor: R$ 300.00 p/dia 
+<br>
+Quantidade de Quartos: 3
+<br>
+Quantidade de Banheiros: 3
+<br>
+* **Cozinha Completa**
+    * Microondas
+    * Armários
+    * Geladeira
+* **Sala de Estar**
+    * Bem espaçoso
+    * Um sofá em L com 4 lugares
+    * Um sofá com dois lugares
+    * Dois sofás com 3 lugares
+    * uma poltrona
+    * uma tv de tubo 
+    * uma mesa com 3 cadeiras
+* **Quarto 1**
+    * duas camas de solteiro
+    * pelo menos 1 colchão
+**Quarto 2**
+    * cama de casal
+* **banheiro completo interno**
+    * vaso sanitário
+    * pia
+    * chuveiro com box transparente
+* **Varandas**
+    * área de churrasco
+    * bancos de bar
+    * frezzer
+    * mesa de jantar grande
+    * mesa e cadeiras de plastico
+* **Exterior**
+    * Grande espaço ao arredor da piscina e áreas verdes
+    * Mesa com garda-sol
+    * Área da Piscina
+        * Piscina grande
+        * Cadeira de tomar sol
+        * Local coberto com redes
+    * Quadra de Vôlei gramada
+
+<hr>
+
+### ~~Chácara do Tito~~ (Eliminado na votação)
+
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/862863595879795/](https://www.facebook.com/marketplace/item/862863595879795/)
+<br>
+Valor: R$ 500.00 p/ dia
+<br>
+Quantidade de Quartos: 4
+<br>
+Quantidade de Banheiros: 3
+<br>
+* **Cozinha Completa Externa**
+    * Pia
+    * Fogão
+    * Churrasqueira
+    * Frezzer horizontal e vertical
+    * Mesa de Jantar Enorme
+* **Cozinha Completa Interna**
+  * Pia
+  * Fogão
+  * Churrasqueira
+  * Geladeira
+  * Microondas
+* **Quarto 1**
+    * uma beliche
+    * uma cama de viuva ou casal
+* **Quarto 2**
+    * uma beliche
+    * uma cama de casal
+* **Varandas**
+    * mesa de sinuca
+    * cadeiras de madeira
+    * mesa de ping pong
+* **Exterior**
+    * Grande espaço em áreas verdes
+    * Balanço
+    * Mesas com guarda-sol
+    * Um gol
+    * Mesas de pedra
+    * Área de Convivio com bancos
+    * Muitas arvores e plantas
+    * Área da Piscina
+        * Piscina de Adultos (patricamente do mesmo tamanho do ano passado)
+        * Piscina infantil do mesmo tamnho so que rasa
+        * Chuveiro externo
+        * Local coberto com redes
+
+<hr>
+
+### ~~Casa 2~~ (Eliminado na votação)
+
+Disponível no Facebook: [https://www.facebook.com/marketplace/item/594561633378670](https://www.facebook.com/marketplace/item/594561633378670)
+<br>
+Valor: R$ 300.00 p/dia (mas R$ 950.00 sexta a domingo)
+<br>
+Quantidade de Quartos: 2
+<br>
+Quantidade de Banheiros: 3
+<br>
+* **Cozinha**
+  * Churrasqueira
+* **Exterior**
+    * Grande espaço verde 
+    * Parquinho de Areia
+    * Casa na Árvore
+    * Quadra de Futebol e Vôlei gramado
+    * Área da Piscina
+        * Piscina grande multinevelada
+        * Cadeira de tomar sol
+        * Mesa com garda-sol
+* Local coberto para eventos
 
 <hr>
 
@@ -428,7 +428,7 @@ Obs.: Local realmente enorme com 4000 metros
 
 <hr>
 
-### Chácara Almeida (A maior)
+### ~~Chácara Almeida (A maior)~~ (Eliminado na votação)
 
 Disponível no Facebook: [https://www.facebook.com/share/19VU9yah6V/](https://www.facebook.com/share/19VU9yah6V/)
 <br>
@@ -483,7 +483,7 @@ Obs.: Local mais para eventos
 
 <hr>
 
-### Chácara Piovesan (A mais nova)
+### ~~Chácara Piovesan (A mais nova)~~ (Eliminado na votação)
 
 Disponível no Facebook: [https://www.facebook.com/share/19VU9yah6V/](https://www.facebook.com/share/19VU9yah6V/)
 <br>
