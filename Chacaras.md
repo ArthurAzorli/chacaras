@@ -8,7 +8,7 @@ Informações das Chácaras encontradas até o momento.
 
 <hr>
 
-### Toca dos Pios
+### Toca dos Pios (Escolhida)
 
 Disponível no Airbnb: [https://www.airbnb.com.br/rooms/1121813478929166966](https://www.airbnb.com.br/rooms/1121813478929166966)
 <br>
@@ -82,7 +82,7 @@ Quantidade de Banheiros: 5
 
 <hr>
 
-### Sítio Boa Vista do Monte Alto
+### ~~Sítio Boa Vista do Monte Alto~~ (Perdeu o Segundo Turno)
 
 Disponível no Airbnb: [https://www.airbnb.com.br/rooms/1104529081806972151](https://www.airbnb.com.br/rooms/1104529081806972151)
 <br>
